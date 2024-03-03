@@ -7,7 +7,7 @@ This project is a color detection system designed to help color blind individual
 To get started with this project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-    git clone https://github.com/your-username/Color-Detection-System.git
+    git clone https://github.com/Uranium43/Color-Detection-System.git
 2. **Install Dependencies**: Make sure you have Python and OpenCV installed on your machine. You can install OpenCV using pip:
     pip install opencv-python
 3. **Run the Script**: Navigate to the project directory and run the color_detection.py script with the path to the image you want to analyze:
